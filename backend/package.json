@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.3",
+    "nodemon": "^3.0.2"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "food-ordering-web-app",
+  "version": "1.0.0",
+  "description": "Just simple food ordering web app, specialize in small business.",
+  "main": "server.js",
+  "keywords": [
+    "food",
+    "ordering",
+    "business"
+  ],
+  "author": "DAVEloper",
+  "license": "ISC"
+}
